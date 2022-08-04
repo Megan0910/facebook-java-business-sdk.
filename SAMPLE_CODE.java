@@ -25,7 +25,7 @@ import com.facebook.ads.sdk.*;
 import java.io.File;
 import java.util.Arrays;
 
-public class SAMPLE_CODE {
+public class SAMPLE_CODE {java -cp ./gson-2.8.0.jar:./target/facebook-java-business-sdk-<latest
   public static void main (String args[]) throws APIException {
 
     String access_token = "EAALJlZBSbyowBAO2KbFN5BREl5jkcMsRWVBjHTWanxwwigc0T4rFypPg0ZAQz1M9UGS43PKGPX4t2vf1bJFKWSTM4c8gY7EodZCmGBxNotiZCZBP2YSwD0hJAgir2HvOHm16tLWsENgs5dhrLQ5DneQQm1x9WzFzG7WOwQuZAfcZCQa0ZBLcGe2iRl0pAqauuewZD";
